@@ -1,8 +1,0 @@
-D:\IIITD\Semester VI - Winter 2014\Distributed Systems\dsys-final\Dsys_Project_S3V3N\Dsys_Project_S3V3N\bin\Debug\Dsys_Project_S3V3N.exe.config
-D:\IIITD\Semester VI - Winter 2014\Distributed Systems\dsys-final\Dsys_Project_S3V3N\Dsys_Project_S3V3N\bin\Debug\Dsys_Project_S3V3N.exe
-D:\IIITD\Semester VI - Winter 2014\Distributed Systems\dsys-final\Dsys_Project_S3V3N\Dsys_Project_S3V3N\bin\Debug\Dsys_Project_S3V3N.pdb
-D:\IIITD\Semester VI - Winter 2014\Distributed Systems\dsys-final\Dsys_Project_S3V3N\Dsys_Project_S3V3N\obj\Debug\Dsys_Project_S3V3N.Form1.resources
-D:\IIITD\Semester VI - Winter 2014\Distributed Systems\dsys-final\Dsys_Project_S3V3N\Dsys_Project_S3V3N\obj\Debug\Dsys_Project_S3V3N.Properties.Resources.resources
-D:\IIITD\Semester VI - Winter 2014\Distributed Systems\dsys-final\Dsys_Project_S3V3N\Dsys_Project_S3V3N\obj\Debug\Dsys_Project_S3V3N.csproj.GenerateResource.Cache
-D:\IIITD\Semester VI - Winter 2014\Distributed Systems\dsys-final\Dsys_Project_S3V3N\Dsys_Project_S3V3N\obj\Debug\Dsys_Project_S3V3N.exe
-D:\IIITD\Semester VI - Winter 2014\Distributed Systems\dsys-final\Dsys_Project_S3V3N\Dsys_Project_S3V3N\obj\Debug\Dsys_Project_S3V3N.pdb
